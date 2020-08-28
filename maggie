@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maggie</title>
+</head>
+<body>
+    <h1>redirecting...</h1>
+</body>
+<script type="text/javascript">
+    window.location = "https://api.whatsapp.com/send?phone=60175654444&text=Mike%E4%BD%A0%E5%A5%BD%EF%BC%81%0a";
+</script>
+</html>
